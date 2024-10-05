@@ -364,6 +364,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 * [whereami](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 * [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (curl wttr.in)
+* [dkrTag](https://github.com/rajhawaldar/dkrTag) - The command line tool to search docker :whale: image tags
 
 ## Games
 
